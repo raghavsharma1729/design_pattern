@@ -18,6 +18,8 @@ To implement the Decorator pattern, the following components are typically invol
 - **Concrete Decorators**: Concrete subclasses of the decorator class that add specific behavior or modify the behavior of the component.
 
 ![Structure](./images/structure.png)
+
+## Example 
 ![Notification Example](./images/notification-example.png)
 
 ## Pros and Cons
