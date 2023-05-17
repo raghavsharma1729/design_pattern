@@ -17,8 +17,8 @@ To implement the Decorator pattern, the following components are typically invol
 - **Decorator**: An abstract class or interface that defines the common interface for all decorators. It holds a reference to the component and delegates the requests to it.
 - **Concrete Decorators**: Concrete subclasses of the decorator class that add specific behavior or modify the behavior of the component.
 
-![Structure](../images/structure.png)
-![Notification Example](../images/notification-example.png)
+![Structure](./images/structure.png)
+![Notification Example](./images/notification-example.png)
 
 ## Pros and Cons
 
